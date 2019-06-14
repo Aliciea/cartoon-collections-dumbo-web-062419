@@ -1,6 +1,6 @@
 def roll_call_dwarves(array)
   array = ["Doc", "Dopey", "Bashful", "Grumpy"]
-  array.each { |dwarves| 
+  array.each { |dwarves| print 
   # Your code here
 end
 
