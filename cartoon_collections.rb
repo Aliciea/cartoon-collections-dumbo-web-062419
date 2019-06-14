@@ -1,4 +1,6 @@
-def roll_call_dwarves()
+def roll_call_dwarves(array)
+  array = ["Doc", "Dopey", "Bashful", "Grumpy"]
+  array.each { |dwarves| 
   # Your code here
 end
 
