@@ -1,8 +1,8 @@
+dwarves = ["Doc", "Dopey", "Bashful", "Grumpy"]
 def roll_call_dwarves(dwarves)
-  dwarves = ["Doc", "Dopey", "Bashful", "Grumpy"]
   new_dwarves = []
   dwarves.each do |x|
-  { |x| print "#{dwarves ! "}"
+  { |x| print "#{x ! "}"
   # Your code here
 end
 
